@@ -1,0 +1,2 @@
+# LingoLeap
+Internship assignment
